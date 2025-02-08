@@ -2,10 +2,6 @@
 
 The Internet Chatting application facilitates real-time messaging and also transfer of files between two users by utilizing multi-threading.The application is designed to have two main components, a main(reading thread) and a writing thread which allows for simultaneous reading and writing through network sockets. 
 
-## Team Members:   
-1. Aashritha Reddy Donapati   
-2. Neeharika Chintalapudi  
-
 ## Running the Application:
 1. Open your terminal or command prompt.    
 2.Navigate to the directory where ChatApp.java is located.  
